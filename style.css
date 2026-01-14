@@ -322,7 +322,8 @@ footer .footer-container p {
         flex-direction: column;
     }
     #experience-badge{
-        margin: 20px auto;
+        margin-top: 20px ;
+        margin-left: 20px;
        
     }
 
